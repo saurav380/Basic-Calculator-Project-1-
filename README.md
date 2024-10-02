@@ -3,7 +3,7 @@
 # Author
 * Name: Saurav Poudel
 * Email: 30064531@cc.peralta.edu
-* Date: October, 02, 2024
+* Date: October 02, 2024
 
 # Project Objective
 This project aims to create a Basic Calculator using C++ that can handle both simple and advanced mathematical operations. This calcutor is designed with modularity in mind, ensuring that each operation is encapsulated in its own function. The project includes the following features:
@@ -18,11 +18,13 @@ This project aims to create a Basic Calculator using C++ that can handle both si
   * Modular function design
   * Error handling and debugging
   * Console input/output
-  * Standard library functions (<cmath>, <vector>, <sstream>)
+  * Standard library functions like, iostream, cmath, vector, sstream, string
+
 This project follows best practices in trems of coding conventions and structure, making it easy to read, maintain, and extend.
 
  # Screenshot
  ![image](https://github.com/user-attachments/assets/2a2de276-fb58-4b8c-b815-f4ed842a48ad)
 
- 
+ # Presentation Video
+ https://1drv.ms/v/s!AjECYxd0ZK7WjjzNfnCFs3w5j_9K?e=8cH28Z
     
